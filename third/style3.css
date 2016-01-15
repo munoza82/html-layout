@@ -1,0 +1,59 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+}
+#page {
+	top: -2%;
+	position: relative;
+	height: 100%;
+	background-color: #D8D8D8;
+}
+#logo {
+	width: 8%;
+	height: 10%;
+	float: left;
+	background-color: #4990E2;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+#mainBar {
+	width: 100%;
+	height: 21%;
+	background-color: #FFFFFF;
+	position: relative;
+	top: 15%;
+}
+#firstL {
+	width: 100%;
+	height: 16%;
+	background-color:#4990E2;
+    top: 15%;
+	position: relative;
+}
+#secondL {
+	width: 100%;
+	height: 16%;
+	background-color:#4FE3C1;
+	top: 15%;
+	position: relative;
+}
+#thirdL {
+	width: 100%;
+	height: 17%;
+	background-color:#B9E888;
+	top: 15%;
+	position: relative;
+}
+#fourthL {
+	width: 100%;
+	height: 17%;
+	background-color:#F8E71E;
+	top: 15%;
+	position: relative;
+}
+p {
+	padding-top: 5%;
+	padding-left: 5%;
+}
