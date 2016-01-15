@@ -1,0 +1,32 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ html, body{
+  height: 100%;
+  width: 100%;
+  possition: relative;
+  background-color: #ebebeb;
+ }
+ #header {
+    height:10%;
+    width: 100%; 
+    background-color: #404040 ;
+    possition: absolute;
+}
+ #mainBody {
+    height:80%;
+    width: 80%;
+    background-color: white;
+    possition: absolute;
+    margin: auto;
+}
+#footer {
+ background-color: black;
+ possition: absolute;
+ height:10%;
+ width: 80%;
+ margin: 0 auto;
+ padding: 20px;
+}

@@ -1,0 +1,33 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+}
+#page {
+	position: relative;
+	height: 100%;
+	background-color: #4FE3C1;
+}
+#left {
+	width: 33%;
+	height: 100%;
+	float: left;
+	background-color: #4990E2;
+	position: absolute;
+
+}
+#right {
+	width: 33%;
+	background-color: #B9E888;
+    height: 100%;
+	float: right;
+}
+#imgPH {
+	width: 33%;
+	background-image: url("http://ufc.usada.org/wp-content/uploads/UFC-Anti-Doping-Policy-EN.jpg");
+	height: 30%;
+	bottom: 0;
+	right: 0;
+	float: right;
+	position: absolute;
+
+}
